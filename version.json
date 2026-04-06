@@ -1,4 +1,5 @@
-{  "version_code": 5.0,
-  "download_url": "https://github.com/JoseLlana/CargoTrack-App/raw/main/app-release.apk",
-  "release_notes": "Mejoras en el Dashboard, Botón de Pánico y corrección de errores."
+{
+  "versionCode": 5.0,
+  "downloadUrl": "https://github.com/JoseLlana/CargoTrack-App/releases/download/v5.0/app-debug.apk",
+  "releaseNotes": "¡Nueva versión 5.0 disponible! Corrección de enlaces de descarga y mejoras en el dashboard."
 }
