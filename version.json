@@ -1,5 +1,5 @@
 {
-  "version_code": 3,
+  "version_code": 3.1,
   "download_url": "https://github.com/JoseLlana/CargoTrack-App/releases/download/v1.1/app-debug.apk",
-  "release_notes": "Mejoras implementadas:\n- Sistema de geocercas activado.\n- Direcciones exactas en el historial.\n- Corrección de errores en el dashboard."
+  "release_notes": "Mejoras en el dashboard y corrección de errores de conexión."
 }
