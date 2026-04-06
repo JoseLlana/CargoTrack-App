@@ -1,5 +1,4 @@
-{
-  "version_code": 3.2,
-  "download_url": "https://github.com/JoseLlana/CargoTrack-App/releases/download/v3.2/app-debug.apk",
-  "release_notes": "Mejoras en el dashboard del trabajador y administrador."
+{  "version_code": 4.0,
+  "download_url": "https://github.com/JoseLlana/CargoTrack-App/raw/main/app-release.apk",
+  "release_notes": "Mejoras en el Dashboard, Botón de Pánico y corrección de errores."
 }
